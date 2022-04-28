@@ -3,11 +3,11 @@ A Python Notebook to perform Data Analysis and Prediction using a Football Datas
 The model is trained using data acquired from Kaggle (https://www.kaggle.com/datasets/slehkyi/extended-football-stats-for-european-leagues-xg)
 
 # Table of Contents
-* [Installation](https://github.com/sumitkhopkar25/football-team-rank-predictor/new/main?readme=1#installation)
-* [Usage](https://github.com/sumitkhopkar25/football-team-rank-predictor/new/main?readme=1#usage)
-* [Development](https://github.com/sumitkhopkar25/football-team-rank-predictor/new/main?readme=1#development)
-* [Example of Prediction](https://github.com/sumitkhopkar25/football-team-rank-predictor/new/main?readme=1#example-of-prediction)
-* [Acknowledgments](https://github.com/sumitkhopkar25/football-team-rank-predictor/new/main?readme=1#acknowledgments)
+* [Installation](https://github.com/sumitkhopkar25/football-team-rank-predictor/tree/main#installation)
+* [Usage](https://github.com/sumitkhopkar25/football-team-rank-predictor/tree/main#usage)
+* [Development](https://github.com/sumitkhopkar25/football-team-rank-predictor/tree/main#development)
+* [Example of Prediction](https://github.com/sumitkhopkar25/football-team-rank-predictor/tree/main#example-of-prediction)
+* [Acknowledgments](https://github.com/sumitkhopkar25/football-team-rank-predictor/tree/main#acknowledgments)
 
 # Installation
 Requires Jupyter Notebook to run the .ipynb file and basic Data Science libraries. 

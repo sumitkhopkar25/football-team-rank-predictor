@@ -1,0 +1,612 @@
+,league,team,wins,scored,xG
+2,La_liga,Atletico Madrid,23,67,57.04767
+3,La_liga,Valencia,22,70,55.0625
+4,La_liga,Sevilla,23,71,69.526624
+5,La_liga,Villarreal,16,48,56.767999
+6,La_liga,Athletic Club,15,42,45.5421507
+7,La_liga,Celta Vigo,13,47,58.887332
+8,La_liga,Malaga,14,42,46.221008
+9,La_liga,Rayo Vallecano,15,46,47.790696
+10,La_liga,Espanyol,13,47,43.979193
+11,La_liga,Real Sociedad,11,44,33.485197
+12,La_liga,Elche,11,35,39.610853
+13,La_liga,Getafe,10,33,33.9685805
+14,La_liga,Levante,9,34,35.3017053
+15,La_liga,Deportivo La Coruna,7,35,37.8712378
+16,La_liga,Granada,7,29,37.3872751
+17,La_liga,Eibar,9,34,29.5601069
+18,La_liga,Almeria,8,35,38.6699445
+19,La_liga,Cordoba,3,22,29.7645145
+23,La_liga,Villarreal,18,44,40.488814
+24,La_liga,Athletic Club,18,58,53.896614
+25,La_liga,Celta Vigo,17,51,50.20347
+26,La_liga,Sevilla,14,51,62.970634
+27,La_liga,Malaga,12,38,45.751884
+28,La_liga,Real Sociedad,13,45,47.947144
+29,La_liga,Real Betis,11,34,40.1124551
+30,La_liga,Valencia,11,46,50.508099
+31,La_liga,Las Palmas,12,45,38.676393
+32,La_liga,Espanyol,12,40,46.09186
+33,La_liga,Eibar,11,49,52.916666
+34,La_liga,Deportivo La Coruna,8,45,43.747087
+35,La_liga,Sporting Gijon,10,40,42.5678716
+36,La_liga,Granada,10,46,41.353233
+37,La_liga,Rayo Vallecano,9,52,52.2594408
+38,La_liga,Getafe,9,37,41.773186
+39,La_liga,Levante,8,37,39.2222133
+42,La_liga,Atletico Madrid,23,70,60.6589
+43,La_liga,Sevilla,21,69,59.094825
+44,La_liga,Villarreal,19,56,52.228737
+45,La_liga,Real Sociedad,19,59,45.5836453
+46,La_liga,Athletic Club,19,53,51.081266
+47,La_liga,Espanyol,15,49,32.5531964
+48,La_liga,Alaves,14,41,42.6011055
+49,La_liga,Eibar,15,56,42.980348
+50,La_liga,Malaga,12,49,40.369334
+51,La_liga,Valencia,13,56,50.339573
+52,La_liga,Celta Vigo,13,53,40.480753
+53,La_liga,Las Palmas,10,53,40.796914
+54,La_liga,Real Betis,10,41,35.715405
+55,La_liga,Deportivo La Coruna,8,43,40.9953521
+56,La_liga,Leganes,8,36,33.1895923
+57,La_liga,Sporting Gijon,7,42,36.354798
+58,La_liga,Osasuna,4,40,33.129606
+59,La_liga,Granada,4,30,29.6861142
+61,La_liga,Atletico Madrid,23,58,50.29048
+63,La_liga,Valencia,22,65,57.7633736
+64,La_liga,Villarreal,18,57,55.669446
+65,La_liga,Real Betis,18,60,46.715464
+66,La_liga,Sevilla,17,49,61.491078
+67,La_liga,Getafe,15,42,49.029457
+68,La_liga,Eibar,14,44,41.42352
+69,La_liga,Girona,14,50,52.098753
+70,La_liga,Celta Vigo,13,59,54.5900082
+71,La_liga,Espanyol,12,36,41.576662
+72,La_liga,Real Sociedad,14,66,56.348762
+73,La_liga,Alaves,15,40,37.879523
+74,La_liga,Levante,11,44,44.202161
+75,La_liga,Athletic Club,10,41,51.785618
+76,La_liga,Leganes,12,34,39.2569609
+77,La_liga,Deportivo La Coruna,6,38,49.775169
+78,La_liga,Las Palmas,5,24,37.8752152
+79,La_liga,Malaga,5,24,35.876437
+81,La_liga,Atletico Madrid,22,55,51.872324
+82,La_liga,Real Madrid,21,63,68.654773
+83,La_liga,Valencia,15,51,61.884949
+84,La_liga,Sevilla,17,62,69.162306
+85,La_liga,Getafe,15,48,47.034178
+86,La_liga,Espanyol,14,48,50.157346
+87,La_liga,Athletic Club,13,41,44.441324
+88,La_liga,Real Sociedad,13,45,47.987101
+89,La_liga,Alaves,13,39,40.873013
+90,La_liga,Real Betis,14,44,51.677425
+91,La_liga,Eibar,11,46,56.633606
+92,La_liga,Leganes,11,37,41.249284
+93,La_liga,Levante,11,59,54.088913
+94,La_liga,Villarreal,10,49,54.79974
+95,La_liga,Celta Vigo,10,53,48.699852
+96,La_liga,Real Valladolid,10,32,41.641547
+97,La_liga,Girona,9,37,42.986638
+98,La_liga,SD Huesca,7,43,51.377569
+99,La_liga,Rayo Vallecano,8,41,47.233183
+102,La_liga,Sevilla,19,54,55.155506
+103,La_liga,Atletico Madrid,18,51,58.700963
+104,La_liga,Villarreal,18,63,65.606501
+105,La_liga,Real Sociedad,16,56,50.915671
+106,La_liga,Granada,16,52,45.021407
+107,La_liga,Getafe,14,43,45.191234
+108,La_liga,Valencia,14,46,45.576255
+109,La_liga,Osasuna,13,46,49.038488
+110,La_liga,Athletic Club,13,41,42.095595
+111,La_liga,Levante,14,47,49.427886
+112,La_liga,Real Valladolid,9,32,35.657758
+113,La_liga,Eibar,11,39,42.345162
+114,La_liga,Real Betis,10,48,48.898528
+115,La_liga,Alaves,10,34,38.1470615
+116,La_liga,Celta Vigo,7,37,40.441183
+117,La_liga,Leganes,8,30,38.921846
+118,La_liga,Mallorca,9,40,40.4563104
+119,La_liga,Espanyol,5,27,37.002815
+122,EPL,Arsenal,22,71,69.802591
+123,EPL,Manchester United,20,62,54.20686
+124,EPL,Tottenham,19,58,52.385284
+125,EPL,Liverpool,18,52,51.697226
+126,EPL,Southampton,18,54,54.965667
+127,EPL,Swansea,16,46,40.901235
+128,EPL,Stoke,15,48,46.260597
+129,EPL,Crystal Palace,13,47,44.756683
+130,EPL,West Ham,12,44,46.687234
+131,EPL,Everton,12,48,44.888185
+132,EPL,West Bromwich Albion,11,38,38.6277291
+133,EPL,Leicester,11,46,48.206401
+134,EPL,Newcastle United,10,40,40.221386
+135,EPL,Aston Villa,10,31,33.102671
+136,EPL,Sunderland,7,31,37.446153
+137,EPL,Hull,8,33,32.791033
+138,EPL,Burnley,7,28,39.372649
+139,EPL,Queens Park Rangers,8,42,45.726091
+140,EPL,Leicester,23,68,68.416034
+142,EPL,Tottenham,19,69,63.419362
+143,EPL,Manchester United,19,49,45.424211
+144,EPL,Manchester City,19,71,66.19736
+145,EPL,Southampton,18,59,56.201605
+146,EPL,West Ham,16,65,54.400567
+147,EPL,Liverpool,16,63,54.365662
+148,EPL,Stoke,14,41,42.626573
+149,EPL,Chelsea,12,59,54.479719
+150,EPL,Swansea,12,42,39.958642
+151,EPL,Everton,11,59,53.9810719
+152,EPL,Watford,12,40,43.199637
+153,EPL,West Bromwich Albion,10,34,39.7528703
+154,EPL,Crystal Palace,11,39,42.50767
+155,EPL,Bournemouth,11,45,38.705838
+156,EPL,Sunderland,9,48,40.517172
+157,EPL,Newcastle United,9,44,37.6056604
+158,EPL,Norwich,9,39,39.187494
+159,EPL,Aston Villa,3,27,26.5270594
+165,EPL,Manchester United,18,54,57.571359
+166,EPL,Everton,17,62,49.6324541
+167,EPL,Bournemouth,12,55,50.016134
+168,EPL,Southampton,12,41,49.9841215
+169,EPL,West Ham,12,47,48.245556
+170,EPL,West Bromwich Albion,12,43,38.213618
+171,EPL,Stoke,11,41,47.874022
+172,EPL,Leicester,12,48,44.340833
+173,EPL,Crystal Palace,12,50,45.40267
+174,EPL,Swansea,12,45,39.4995429
+175,EPL,Watford,11,40,36.2545579
+176,EPL,Burnley,11,39,35.591734
+177,EPL,Hull,9,37,33.839492
+178,EPL,Middlesbrough,5,27,30.9301263
+179,EPL,Sunderland,6,29,34.22368
+182,EPL,Tottenham,23,74,68.911894
+184,EPL,Chelsea,21,62,59.160689
+186,EPL,Burnley,14,36,32.771712
+187,EPL,Everton,13,44,43.707511
+188,EPL,Leicester,12,56,50.2887137
+189,EPL,Crystal Palace,11,45,56.749704
+190,EPL,Bournemouth,11,45,39.99186
+191,EPL,Newcastle United,12,39,44.625608
+192,EPL,West Ham,10,48,36.80133
+193,EPL,Watford,11,44,45.847429
+194,EPL,Brighton,9,34,37.2144165
+195,EPL,Huddersfield,9,28,32.1338432
+196,EPL,Southampton,7,37,41.880147
+197,EPL,Stoke,7,35,36.754259
+198,EPL,Swansea,8,28,29.7130847
+199,EPL,West Bromwich Albion,6,31,35.184401
+202,EPL,Chelsea,21,63,63.968004
+203,EPL,Tottenham,23,67,61.746657
+204,EPL,Arsenal,21,73,64.795372
+205,EPL,Manchester United,19,65,68.617498
+206,EPL,Wolverhampton Wanderers,16,47,53.0586916
+207,EPL,Everton,15,54,53.866134
+208,EPL,West Ham,15,52,47.9605279
+209,EPL,Leicester,15,51,52.114153
+210,EPL,Watford,14,52,51.733546
+211,EPL,Crystal Palace,14,51,50.642166
+212,EPL,Newcastle United,12,42,39.9106505
+213,EPL,Bournemouth,13,56,58.812899
+214,EPL,Burnley,11,45,44.7412159
+215,EPL,Southampton,9,45,49.671325
+216,EPL,Brighton,9,35,37.027868
+217,EPL,Cardiff,10,34,41.7697266
+218,EPL,Fulham,7,34,42.621864
+219,EPL,Huddersfield,3,22,29.002263
+222,EPL,Manchester United,18,66,66.186663
+224,EPL,Leicester,18,67,61.0171647
+225,EPL,Tottenham,16,61,49.021303
+226,EPL,Wolverhampton Wanderers,15,51,54.223981
+227,EPL,Arsenal,14,56,50.822218
+228,EPL,Burnley,15,43,49.3468938
+229,EPL,Sheffield United,14,39,45.811621
+230,EPL,Southampton,15,51,56.496626
+231,EPL,Everton,13,44,53.710143
+232,EPL,Newcastle United,11,38,36.491737
+233,EPL,Crystal Palace,11,31,34.4479555
+234,EPL,Brighton,9,39,47.424061
+235,EPL,West Ham,10,49,49.0691132
+236,EPL,Aston Villa,9,41,45.088989
+237,EPL,Watford,8,36,48.562637
+238,EPL,Bournemouth,9,40,44.6710449
+239,EPL,Norwich,5,26,37.2341749
+241,Bundesliga,Wolfsburg,20,72,58.347731
+242,Bundesliga,Borussia M.Gladbach,19,53,51.7415719
+243,Bundesliga,Bayer Leverkusen,17,62,49.155699
+244,Bundesliga,Augsburg,15,43,43.911698
+245,Bundesliga,Schalke 04,13,42,41.2589158
+246,Bundesliga,Borussia Dortmund,13,47,53.863501
+247,Bundesliga,Hoffenheim,12,49,49.963057
+248,Bundesliga,Werder Bremen,11,50,42.673755
+249,Bundesliga,Eintracht Frankfurt,11,56,47.3697165
+250,Bundesliga,FC Cologne,9,34,32.224092
+251,Bundesliga,Mainz 05,9,45,43.912293
+252,Bundesliga,Hannover 96,9,40,36.429044
+253,Bundesliga,VfB Stuttgart,9,42,45.639776
+254,Bundesliga,Hamburger SV,9,25,32.859179
+255,Bundesliga,Hertha Berlin,9,36,32.6564319
+256,Bundesliga,Freiburg,7,36,38.6880206
+257,Bundesliga,Paderborn,7,31,36.079765
+260,Bundesliga,Bayer Leverkusen,18,56,52.907869
+261,Bundesliga,Borussia M.Gladbach,17,67,53.668954
+262,Bundesliga,Schalke 04,15,51,47.129821
+263,Bundesliga,Mainz 05,14,46,47.914203
+264,Bundesliga,Hertha Berlin,14,42,35.895022
+265,Bundesliga,Wolfsburg,12,47,49.489405
+266,Bundesliga,FC Cologne,10,38,42.872219
+267,Bundesliga,Hamburger SV,11,40,38.753566
+268,Bundesliga,Ingolstadt,10,33,41.0237291
+269,Bundesliga,Darmstadt,9,38,39.0313309
+270,Bundesliga,Werder Bremen,10,50,50.1238214
+271,Bundesliga,Augsburg,9,42,42.390457
+272,Bundesliga,Hoffenheim,9,39,39.554448
+273,Bundesliga,Eintracht Frankfurt,9,34,32.9494858
+274,Bundesliga,VfB Stuttgart,9,50,57.699662
+275,Bundesliga,Hannover 96,7,31,32.4291916
+277,Bundesliga,RasenBallsport Leipzig,20,66,55.0917263
+279,Bundesliga,Hoffenheim,16,64,54.503884
+280,Bundesliga,Hertha Berlin,15,43,38.150167
+281,Bundesliga,FC Cologne,12,51,45.335524
+282,Bundesliga,Freiburg,14,42,39.41105
+283,Bundesliga,Werder Bremen,13,61,42.99272
+284,Bundesliga,Borussia M.Gladbach,12,45,45.821755
+285,Bundesliga,Schalke 04,11,45,44.857644
+286,Bundesliga,Eintracht Frankfurt,11,36,43.590541
+287,Bundesliga,Bayer Leverkusen,11,53,53.104216
+288,Bundesliga,Augsburg,9,35,33.88275
+289,Bundesliga,Hamburger SV,10,33,31.914013
+290,Bundesliga,Mainz 05,10,44,42.36353
+291,Bundesliga,Wolfsburg,10,34,44.465999
+292,Bundesliga,Ingolstadt,8,36,44.510902
+293,Bundesliga,Darmstadt,7,28,33.906823
+295,Bundesliga,Schalke 04,18,53,46.829516
+296,Bundesliga,Bayer Leverkusen,15,58,56.982826
+297,Bundesliga,Hoffenheim,15,66,50.71606
+298,Bundesliga,Borussia Dortmund,15,64,66.097937
+299,Bundesliga,RasenBallsport Leipzig,15,57,51.422302
+300,Bundesliga,VfB Stuttgart,15,36,37.912172
+301,Bundesliga,Eintracht Frankfurt,14,45,41.059284
+302,Bundesliga,Borussia M.Gladbach,13,47,51.247335
+303,Bundesliga,Hertha Berlin,10,43,38.5751845
+304,Bundesliga,Werder Bremen,10,37,38.50837
+305,Bundesliga,Augsburg,10,43,42.262212
+306,Bundesliga,Hannover 96,10,44,41.218369
+307,Bundesliga,Mainz 05,9,38,31.64673
+308,Bundesliga,Freiburg,8,32,36.982345
+309,Bundesliga,Wolfsburg,6,36,32.1054943
+310,Bundesliga,Hamburger SV,8,29,36.03913521
+311,Bundesliga,FC Cologne,5,35,41.500611
+314,Bundesliga,RasenBallsport Leipzig,19,63,68.246406
+315,Bundesliga,Bayer Leverkusen,18,69,61.489672
+316,Bundesliga,Borussia M.Gladbach,16,55,54.926189
+317,Bundesliga,Wolfsburg,16,62,49.490941
+318,Bundesliga,Eintracht Frankfurt,15,60,61.842493
+319,Bundesliga,Werder Bremen,14,58,49.360429
+321,Bundesliga,Fortuna Duesseldorf,13,49,49.474933
+322,Bundesliga,Hertha Berlin,11,49,50.520192
+323,Bundesliga,Mainz 05,12,46,49.214245
+324,Bundesliga,Freiburg,8,46,41.225196
+325,Bundesliga,Schalke 04,8,37,46.618307
+326,Bundesliga,Augsburg,8,51,47.443577
+327,Bundesliga,VfB Stuttgart,7,32,37.3775347
+328,Bundesliga,Hannover 96,5,31,34.808797
+329,Bundesliga,Nuernberg,3,26,35.371743
+334,Bundesliga,Bayer Leverkusen,19,61,61.884306
+335,Bundesliga,Hoffenheim,15,53,56.660719
+336,Bundesliga,Wolfsburg,13,48,54.433489
+337,Bundesliga,Freiburg,13,48,46.140809
+338,Bundesliga,Eintracht Frankfurt,13,59,58.3335652
+339,Bundesliga,Hertha Berlin,11,48,44.298706
+340,Bundesliga,Union Berlin,12,41,41.577336
+341,Bundesliga,Schalke 04,9,38,35.926041
+342,Bundesliga,Mainz 05,11,44,46.189702
+343,Bundesliga,Augsburg,9,45,43.85645
+344,Bundesliga,FC Cologne,10,51,49.277536
+345,Bundesliga,Werder Bremen,8,42,37.738137
+346,Bundesliga,Fortuna Duesseldorf,6,36,35.69057
+347,Bundesliga,Paderborn,4,37,38.46536
+349,Serie_A,Roma,19,54,50.853662
+350,Serie_A,Lazio,21,71,61.996225
+351,Serie_A,Fiorentina,18,61,60.670595
+352,Serie_A,Napoli,18,70,64.49538
+353,Serie_A,Genoa,16,62,57.321604
+354,Serie_A,Sampdoria,13,48,47.5852592
+355,Serie_A,Inter,14,59,57.168296
+356,Serie_A,Torino,14,48,51.778812
+357,Serie_A,AC Milan,13,56,47.072551
+358,Serie_A,Palermo,12,53,54.972834
+359,Serie_A,Sassuolo,12,49,42.9145437
+360,Serie_A,Verona,11,49,46.883277
+361,Serie_A,Chievo,10,28,33.013623
+362,Serie_A,Empoli,8,46,49.662924
+363,Serie_A,Udinese,10,43,34.858852
+364,Serie_A,Atalanta,7,38,40.937206
+365,Serie_A,Cagliari,8,48,53.916897
+366,Serie_A,Parma,6,33,31.765945
+367,Serie_A,Cesena,4,36,34.6180388
+371,Serie_A,Inter,20,50,54.295839
+372,Serie_A,Fiorentina,18,60,53.193085
+373,Serie_A,Sassuolo,16,49,47.322888
+374,Serie_A,AC Milan,15,49,53.906377
+375,Serie_A,Lazio,15,52,55.208897
+376,Serie_A,Chievo,13,43,40.589887
+377,Serie_A,Genoa,13,45,45.2857583
+378,Serie_A,Empoli,12,40,37.838529
+379,Serie_A,Atalanta,11,41,46.076171
+380,Serie_A,Torino,12,52,49.419914
+381,Serie_A,Bologna,11,33,35.478687
+382,Serie_A,Sampdoria,10,48,40.525432
+383,Serie_A,Palermo,10,38,36.548124
+384,Serie_A,Udinese,10,35,46.309879
+385,Serie_A,Carpi,9,37,43.3730078
+386,Serie_A,Frosinone,8,35,33.843419
+387,Serie_A,Verona,5,34,40.1720139
+391,Serie_A,Atalanta,21,62,61.393222
+392,Serie_A,Lazio,21,74,65.386424
+393,Serie_A,AC Milan,18,57,59.672722
+394,Serie_A,Inter,19,72,68.760473
+395,Serie_A,Fiorentina,16,63,55.137755
+396,Serie_A,Torino,13,71,57.396987
+397,Serie_A,Sassuolo,14,60,50.56918
+398,Serie_A,Sampdoria,12,49,46.17492
+399,Serie_A,Cagliari,14,55,42.4249501
+400,Serie_A,Udinese,12,47,44.93708
+401,Serie_A,Chievo,12,43,42.739706
+402,Serie_A,Bologna,11,40,36.511121
+403,Serie_A,Genoa,9,38,45.196485
+404,Serie_A,Crotone,9,34,34.168615
+405,Serie_A,Empoli,8,29,35.0911016
+406,Serie_A,Palermo,6,33,28.915261
+407,Serie_A,Pescara,2,35,43.122026
+410,Serie_A,Roma,23,61,65.626284
+411,Serie_A,Inter,20,66,60.834829
+413,Serie_A,AC Milan,18,56,50.875642
+414,Serie_A,Atalanta,16,57,64.294623
+415,Serie_A,Fiorentina,16,54,54.119047
+416,Serie_A,Sampdoria,16,56,53.1392869
+417,Serie_A,Torino,13,54,46.592124
+418,Serie_A,Sassuolo,11,29,47.148854
+419,Serie_A,Genoa,11,33,42.2084412
+420,Serie_A,Udinese,12,48,45.195238
+421,Serie_A,Chievo,10,36,34.4206017
+422,Serie_A,Bologna,11,40,36.11303
+423,Serie_A,Cagliari,11,33,38.27256
+424,Serie_A,SPAL 2013,8,39,34.6135
+425,Serie_A,Crotone,9,40,33.2399123
+426,Serie_A,Verona,7,30,33.7632117
+427,Serie_A,Benevento,6,33,38.209353
+429,Serie_A,Napoli,24,74,68.237943
+431,Serie_A,Inter,20,57,66.473848
+432,Serie_A,AC Milan,19,55,52.164813
+433,Serie_A,Roma,18,66,68.394175
+434,Serie_A,Torino,16,52,46.471205
+435,Serie_A,Lazio,17,56,61.265079
+436,Serie_A,Sampdoria,15,60,53.194756
+437,Serie_A,Bologna,11,48,48.100653
+438,Serie_A,Sassuolo,9,53,49.754823
+439,Serie_A,Udinese,11,39,42.486283
+440,Serie_A,SPAL 2013,11,44,43.28407
+441,Serie_A,Fiorentina,8,47,54.123063
+442,Serie_A,Cagliari,10,36,40.939495
+443,Serie_A,Parma Calcio 1913,10,41,41.0986435
+444,Serie_A,Genoa,8,39,44.5390678
+445,Serie_A,Empoli,10,51,52.061419
+446,Serie_A,Frosinone,5,29,36.1032521
+447,Serie_A,Chievo,2,25,36.4763295
+453,Serie_A,AC Milan,19,63,65.266741
+454,Serie_A,Napoli,18,61,63.877947
+455,Serie_A,Sassuolo,14,69,52.42054
+456,Serie_A,Verona,12,47,51.506279
+457,Serie_A,Fiorentina,11,48,51.242789
+458,Serie_A,Bologna,12,51,56.076074
+459,Serie_A,Parma Calcio 1913,13,52,43.582502
+460,Serie_A,Cagliari,11,52,41.923216
+461,Serie_A,Sampdoria,12,48,48.915226
+462,Serie_A,Udinese,11,36,41.539416
+463,Serie_A,Torino,11,45,42.023372
+464,Serie_A,Genoa,9,44,48.993215
+465,Serie_A,Lecce,9,49,50.835098
+466,Serie_A,Brescia,6,35,43.248823
+467,Serie_A,SPAL 2013,5,26,38.2108859
+469,Ligue_1,Lyon,22,72,62.851829
+470,Ligue_1,Monaco,20,51,56.608176
+472,Ligue_1,Saint-Etienne,19,51,46.493418
+473,Ligue_1,Bordeaux,17,47,48.213256
+474,Ligue_1,Lille,16,43,40.917056
+475,Ligue_1,Montpellier,16,46,45.3891241
+476,Ligue_1,Rennes,13,35,37.443142
+477,Ligue_1,Guingamp,15,41,37.8513527
+478,Ligue_1,Nice,13,44,45.1948945
+479,Ligue_1,SC Bastia,12,37,30.25339
+480,Ligue_1,Caen,12,54,41.400288
+481,Ligue_1,Nantes,11,29,36.080293
+482,Ligue_1,Reims,12,47,43.448785
+483,Ligue_1,Lorient,12,44,41.035511
+484,Ligue_1,Toulouse,12,43,40.6729322
+485,Ligue_1,Evian Thonon Gaillard,11,41,33.8978481
+486,Ligue_1,Metz,7,31,37.5191001
+487,Ligue_1,Lens,7,32,38.410737
+489,Ligue_1,Lyon,19,67,63.008171
+490,Ligue_1,Monaco,17,57,58.128595
+491,Ligue_1,Nice,18,58,45.231322
+492,Ligue_1,Lille,15,39,41.6936816
+493,Ligue_1,Saint-Etienne,17,42,45.463431
+494,Ligue_1,Caen,16,39,43.900052
+495,Ligue_1,Rennes,13,52,42.905323
+496,Ligue_1,Angers,13,40,36.583386
+497,Ligue_1,Bordeaux,12,50,46.362351
+498,Ligue_1,SC Bastia,14,36,29.5139365
+499,Ligue_1,Montpellier,14,49,43.137234
+500,Ligue_1,Nantes,12,33,36.402856
+501,Ligue_1,Marseille,10,48,48.888795
+502,Ligue_1,Lorient,11,47,42.311264
+503,Ligue_1,Guingamp,11,47,41.3497343
+504,Ligue_1,Toulouse,9,45,50.33195
+505,Ligue_1,Reims,10,44,42.869502
+506,Ligue_1,GFC Ajaccio,8,37,32.5213364
+507,Ligue_1,Troyes,3,28,36.589199
+510,Ligue_1,Nice,22,63,51.536786
+512,Ligue_1,Marseille,17,57,53.828313
+513,Ligue_1,Bordeaux,15,53,52.021644
+514,Ligue_1,Nantes,14,40,42.985593
+515,Ligue_1,Rennes,12,36,41.805557
+516,Ligue_1,Saint-Etienne,12,41,42.91644
+517,Ligue_1,Guingamp,14,46,47.1389903
+518,Ligue_1,Lille,13,40,44.083999
+519,Ligue_1,Angers,13,40,46.194389
+520,Ligue_1,Toulouse,10,37,41.187499
+521,Ligue_1,Metz,11,39,34.755631
+522,Ligue_1,Montpellier,10,48,44.199186
+523,Ligue_1,Caen,10,36,45.2790033
+524,Ligue_1,Dijon,8,46,38.590344
+525,Ligue_1,Lorient,10,44,44.45624
+526,Ligue_1,Nancy,9,29,32.5770453
+527,Ligue_1,SC Bastia,8,29,32.2656326
+532,Ligue_1,Rennes,16,50,46.97009
+533,Ligue_1,Bordeaux,16,53,52.557174
+534,Ligue_1,Saint-Etienne,15,47,51.034859
+535,Ligue_1,Nice,15,53,47.357765
+536,Ligue_1,Nantes,14,36,39.800202
+537,Ligue_1,Montpellier,11,36,39.808785
+538,Ligue_1,Dijon,13,55,40.025419
+539,Ligue_1,Guingamp,12,48,41.8589517
+540,Ligue_1,Amiens,12,37,31.4655405
+541,Ligue_1,Angers,9,42,46.153114
+542,Ligue_1,Lille,10,41,36.128315
+543,Ligue_1,Caen,10,27,41.174308
+544,Ligue_1,Strasbourg,9,44,43.272438
+545,Ligue_1,Toulouse,9,38,43.294816
+546,Ligue_1,Troyes,9,32,37.1285004
+547,Ligue_1,Metz,6,34,36.4005133
+549,Ligue_1,Lille,22,68,60.006656
+551,Ligue_1,Saint-Etienne,19,59,57.849065
+552,Ligue_1,Marseille,18,60,52.080527
+553,Ligue_1,Montpellier,15,53,46.620677
+554,Ligue_1,Nice,15,30,43.449513
+555,Ligue_1,Reims,13,39,37.119521
+556,Ligue_1,Nimes,15,57,48.504984
+557,Ligue_1,Rennes,13,55,56.05117
+558,Ligue_1,Strasbourg,11,58,40.58874
+559,Ligue_1,Nantes,13,48,48.038438
+560,Ligue_1,Angers,10,44,47.496038
+561,Ligue_1,Bordeaux,10,34,37.2663785
+562,Ligue_1,Toulouse,8,35,42.727796
+563,Ligue_1,Amiens,9,31,34.630686
+564,Ligue_1,Monaco,8,38,46.4948182
+565,Ligue_1,Dijon,9,31,36.130932
+566,Ligue_1,Caen,7,29,26.9720973
+567,Ligue_1,Guingamp,5,28,39.4550368
+569,Ligue_1,Marseille,16,41,36.423225
+570,Ligue_1,Rennes,15,38,34.368041
+571,Ligue_1,Lille,15,35,40.805435
+572,Ligue_1,Nice,11,41,36.454345
+573,Ligue_1,Reims,10,26,28.926853
+574,Ligue_1,Montpellier,11,35,34.949277
+575,Ligue_1,Monaco,11,44,48.55023
+576,Ligue_1,Lyon,11,42,36.243716
+577,Ligue_1,Angers,11,28,27.104216
+578,Ligue_1,Strasbourg,11,32,34.556127
+579,Ligue_1,Nantes,11,28,27.814269
+580,Ligue_1,Bordeaux,9,40,30.468774
+581,Ligue_1,Metz,8,27,24.651134
+582,Ligue_1,Brest,8,34,30.04769
+583,Ligue_1,Dijon,7,27,27.37805
+584,Ligue_1,Saint-Etienne,8,29,29.651493
+585,Ligue_1,Nimes,7,29,30.193755
+586,Ligue_1,Amiens,4,31,25.6198687
+587,Ligue_1,Toulouse,3,22,31.294048
+588,RFPL,Zenit St. Petersburg,20,58,50.51791
+589,RFPL,CSKA Moscow,19,67,51.022039
+590,RFPL,FC Krasnodar,17,52,43.731498
+591,RFPL,Dinamo Moscow,14,53,44.779138
+592,RFPL,Rubin Kazan,13,39,42.70397
+593,RFPL,Spartak Moscow,12,42,40.913455
+594,RFPL,Lokomotiv Moscow,11,31,33.289538
+595,RFPL,Mordovya,11,22,24.0683311
+596,RFPL,FK Akhmat,10,30,26.664086
+597,RFPL,Kuban Krasnodar,8,32,35.157793
+598,RFPL,Amkar,8,25,25.502903
+599,RFPL,FC Ufa,7,26,22.5032123
+600,RFPL,Ural,9,31,30.3572073
+601,RFPL,FC Rostov,7,27,29.365
+602,RFPL,Torpedo Moscow,6,28,29.212383
+603,RFPL,Arsenal Tula,7,20,26.92597
+604,RFPL,CSKA Moscow,20,51,49.466551
+605,RFPL,FC Rostov,19,41,37.228557
+606,RFPL,Zenit St. Petersburg,17,61,57.29467
+607,RFPL,FC Krasnodar,16,54,41.822727
+608,RFPL,Spartak Moscow,15,48,47.194445
+609,RFPL,Lokomotiv Moscow,14,43,39.438216
+610,RFPL,FK Akhmat,11,35,30.402646
+611,RFPL,Ural,10,39,30.822273
+612,RFPL,Krylya Sovetov Samara,9,19,27.598243
+613,RFPL,Rubin Kazan,9,33,36.845848
+614,RFPL,Amkar,7,22,23.675205
+615,RFPL,FC Ufa,6,25,21.409179
+616,RFPL,Anzhi Makhachkala,6,28,28.751149
+617,RFPL,Kuban Krasnodar,5,34,29.29902918
+618,RFPL,Dinamo Moscow,5,25,29.649183
+619,RFPL,Mordovya,4,30,31.218293
+620,RFPL,Spartak Moscow,22,46,35.675737
+621,RFPL,CSKA Moscow,18,47,37.065576
+622,RFPL,Zenit St. Petersburg,18,50,45.118986
+623,RFPL,FC Krasnodar,12,40,31.326173
+624,RFPL,FC Rostov,13,36,25.206872
+625,RFPL,FK Akhmat,14,38,30.3250306
+626,RFPL,FC Ufa,12,22,22.8497595
+627,RFPL,Lokomotiv Moscow,10,39,34.209398
+628,RFPL,Rubin Kazan,10,30,31.600185
+629,RFPL,Amkar,8,25,19.9706198
+630,RFPL,Anzhi Makhachkala,7,24,24.364711
+631,RFPL,Ural,8,24,19.2685798
+632,RFPL,FC Orenburg,7,25,24.611547
+633,RFPL,Krylya Sovetov Samara,6,31,34.038083
+634,RFPL,Arsenal Tula,7,18,21.145387
+636,RFPL,Lokomotiv Moscow,18,41,36.416852
+637,RFPL,CSKA Moscow,17,49,45.707394
+638,RFPL,Spartak Moscow,16,51,49.107717
+639,RFPL,FC Krasnodar,16,46,38.793385
+640,RFPL,Zenit St. Petersburg,14,46,45.941728
+641,RFPL,FC Ufa,11,34,28.237297
+642,RFPL,Arsenal Tula,12,35,32.605242
+643,RFPL,Dinamo Moscow,10,29,31.3015433
+644,RFPL,FK Akhmat,10,30,31.41915
+645,RFPL,Rubin Kazan,9,32,28.246541
+646,RFPL,FC Rostov,9,27,27.197737
+647,RFPL,Ural,8,31,27.925562
+648,RFPL,Amkar,9,20,24.361558
+649,RFPL,Anzhi Makhachkala,6,31,26.5070138
+650,RFPL,Tosno,6,23,22.1738805
+651,RFPL,SKA-Khabarovsk,2,16,18.0103721
+652,RFPL,Zenit St. Petersburg,20,57,49.4600608
+653,RFPL,Lokomotiv Moscow,16,45,42.248143
+654,RFPL,FC Krasnodar,16,55,51.335283
+655,RFPL,CSKA Moscow,14,46,44.575592
+656,RFPL,Spartak Moscow,14,36,38.898095
+657,RFPL,Arsenal Tula,12,40,32.492493
+658,RFPL,FC Orenburg,12,39,32.071894
+659,RFPL,FK Akhmat,11,28,25.9164284
+660,RFPL,FC Rostov,10,25,28.016305
+661,RFPL,Ural,10,33,31.747859
+662,RFPL,Rubin Kazan,7,24,27.517579
+663,RFPL,Dinamo Moscow,6,28,34.34219
+664,RFPL,Krylya Sovetov Samara,8,25,29.829576
+665,RFPL,FC Ufa,5,24,25.2981516
+666,RFPL,Anzhi Makhachkala,5,13,17.692527
+667,RFPL,FC Yenisey Krasnoyarsk,4,24,29.6152866
+668,RFPL,Zenit St. Petersburg,22,65,62.392129
+669,RFPL,Lokomotiv Moscow,16,41,47.752376
+670,RFPL,FC Krasnodar,14,49,45.627062
+671,RFPL,CSKA Moscow,14,43,40.324664
+672,RFPL,FC Rostov,12,45,41.296507
+673,RFPL,Dinamo Moscow,11,27,39.896445
+674,RFPL,Spartak Moscow,11,35,42.532668
+675,RFPL,FC Ufa,8,22,26.0133027
+676,RFPL,Arsenal Tula,11,37,32.010323
+677,RFPL,Rubin Kazan,8,18,30.082898
+678,RFPL,Ural,9,36,31.610564
+679,RFPL,PFC Sochi,8,40,36.4562216
+680,RFPL,FK Akhmat,7,27,33.901702
+681,RFPL,Krylya Sovetov Samara,8,33,33.579462
+682,RFPL,FC Tambov,9,37,26.0074243
+683,RFPL,FC Orenburg,7,28,35.108298
